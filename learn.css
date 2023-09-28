@@ -7,7 +7,7 @@
     color: black!important;
 
 }
-div{
+button{
     background-color: blue;
     width: 100px;
     height: 100px;
@@ -19,7 +19,7 @@ div{
  
 }
 
-div:hover{
+button:hover{
     background-color: white;
     color:white;
 }
