@@ -5,9 +5,10 @@
     border-radius: 50px;
     padding-top: 10px;
     color: black!important;
+    margin-left: 50px;
 
 }
-div{
+button{
     background-color: blue;
     width: 100px;
     height: 100px;
@@ -19,7 +20,7 @@ div{
  
 }
 
-div:hover{
+button:hover{
     background-color: white;
     color:white;
 }
